@@ -1,0 +1,13 @@
+# packer cache objects
+packer_cache/
+
+# built boxes
+*.box
+
+# build logs
+build/
+*.log
+
+# nuget packages
+packages/
+*.nupkg
